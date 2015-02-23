@@ -26,3 +26,6 @@ msg_gen/
 srv_gen/
 
 nao_remote/src/nao_remote
+
+# Backup files
+*~
